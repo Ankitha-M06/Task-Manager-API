@@ -1,0 +1,2 @@
+# Task Manager API
+A simple Python REST API built with FastAPI to add, view, and delete tasks. Includes interactive API docs via Swagger UI. Demonstrates Python back-end skills and CRUD operations.
